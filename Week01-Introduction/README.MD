@@ -22,10 +22,10 @@ Here is the problem and solution link for Problem 854A in codeforces.com <br>
 [Submission Link 854A](http://codeforces.com/contest/854/submission/42296421) <br>
 
 ## Diverse Team
-It is given there students and they want to form group of certain number. Each of them have their own rank in Codehorses, the team must consist of students with different rank.<br>
-First line input will be number of students in class and how many person in group there will be.<br>
+It is given there students and they want to form team of certain number. Each of them have their own rank in Codehorses, the team must consist of students with different rank.<br>
+First line input will be number of students in class and how many person in team there will be.<br>
 Second line input will be rank of each students.<br>
-The output is "YES" if they can make team with that rules and "NO" if they can't. if "YES", Also output which students are in the group. <br>
+The output is "YES" if they can make team with that rules and "NO" if they can't. If they can form the team, Also output which students are in the group. <br>
 <br>
 Here is the problem and solution link for Problem 988A in codeforces.com <br>
 [Problem Link 988A](http://codeforces.com/contest/988/problem/A) <br>
