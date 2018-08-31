@@ -2,7 +2,7 @@
 ## Tricky Alchemy
 Here is the problem and solution link for Problem 912A in codeforces.com <br>
 [Problem Link 912A](http://codeforces.com/contest/912/problem/A) <br>
-[Submission Link 912A](https://www.google.com) <br>
+[Submission Link 912A](http://codeforces.com/contest/912/submission/42300682) <br>
 <br>
 ## Fraction
 Here is the problem and solution link for Problem 854A in codeforces.com <br>
