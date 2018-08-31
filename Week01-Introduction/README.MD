@@ -1,7 +1,7 @@
 # HELLO
 ## Tricky Alchemy
 Here is the solution for Problem 912A in codeforces.com <br>
-[Submission Link 912A] (https://www.google.com) <br>
+[Submission Link 912A](https://www.google.com) <br>
 <br>
 ## Fraction
 Here is the solution for Problem 854A in codeforces.com <br>
