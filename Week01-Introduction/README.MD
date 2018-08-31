@@ -9,4 +9,4 @@ Here is the solution for Problem 854A in codeforces.com <br>
 <br>
 ## Diverse Team
 Here is the solution for Problem 988A in codeforces.com <br>
-[Submission Link 988A] (google.com) <br>
+[Submission Link 988A](https://www.google.com) <br>
