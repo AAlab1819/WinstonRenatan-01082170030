@@ -1,4 +1,4 @@
-# HELLO
+# HELLO THERE PLEASE READ ME
 
 ## Tricky Alchemy
 The problem given is finding how many crystal needed more, in this problem there is a ball and crystal, which ball is form using certain amount of crystal. <br>
