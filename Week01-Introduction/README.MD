@@ -29,4 +29,4 @@ The output is "YES" if they can make team with that rules and "NO" if they can't
 <br>
 Here is the problem and solution link for Problem 988A in codeforces.com <br>
 [Problem Link 988A](http://codeforces.com/contest/988/problem/A) <br>
-[Submission Link 988A](https://www.google.com) <br>
+[Submission Link 988A](http://codeforces.com/contest/988/submission/42335085) <br>
