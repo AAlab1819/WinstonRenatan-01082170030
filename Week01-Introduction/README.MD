@@ -19,7 +19,7 @@ Second line input will be Yellow Ball, Green Ball, and Blue Ball Grisha want to 
 The output expected is the total crystal Grisha need from both Yellow and Blue Crystal. <br>
 First we need to count how many crystal we need for each color: <br>
 Yellow Crystals = (Yellow Ball x 2) + Green Ball - Yellow Crystal we have. <br>
-Blue Crystals   = (Blue Ball x 2) + Green Ball - Blue Crystal we have. <br>
+Blue Crystals   = (Blue Ball x 3) + Green Ball - Blue Crystal we have. <br>
 If the need for one or both of the crystals is less then 0, make the need for that crystal equal to zero. <br>
 Then we add the need for Yellow Crystal and Blue Crystal. <br>
 <br>
