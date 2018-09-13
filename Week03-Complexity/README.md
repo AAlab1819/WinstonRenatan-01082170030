@@ -19,7 +19,7 @@ Here is the problem and solution link for Problem 492B in codeforces.com <br>
 <br>
 Here is the problem and solution link for Problem 148A in codeforces.com <br>
 [Problem Link 148A](http://codeforces.com/contest/148/problem/A) <br>
-[Submission Link 148A]() <br>
+[Submission Link 148A](http://codeforces.com/contest/148/submission/42835066) <br>
 
 # 469A: I Wanna Be the Guy
 <br>
