@@ -7,7 +7,7 @@ The next line will be the location of the lanterns in the streets.<br>
 The solution here is first to count the distance from 0 to first lantern, then the edge of the street to the last lantern, and the biggest gap between lanterns by sorting the location of the lantern in non-decreasing way. We then divide the biggest gap by two to find the radius, because it is in between two lanterns.<br>
 Then we find the greatest number between those three and print it.<br>
 Complexity:<br>
-Worst Case: *O*(*nlog(n)*)<br>
+Worst Case: *O*(*nlogn*)<br>
 Average Case: HOHO(n<sup>2</sup>)<br> 
 Best Case: <br>
 <br>
