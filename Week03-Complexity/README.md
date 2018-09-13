@@ -25,4 +25,4 @@ Here is the problem and solution link for Problem 148A in codeforces.com <br>
 <br>
 Here is the problem and solution link for Problem 469A in codeforces.com <br>
 [Problem Link 469A](http://codeforces.com/contest/469/problem/A) <br>
-[Submission Link 469A]() <br>
+[Submission Link 469A](http://codeforces.com/contest/469/submission/42835587) <br>
