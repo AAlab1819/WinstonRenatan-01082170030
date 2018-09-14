@@ -8,20 +8,38 @@ The solution here is first to count the distance from 0 to first lantern, then t
 Then we find the greatest number between those three and print it.<br>
 Complexity:<br>
 Worst Case: *O*(*nlogn*)<br>
-Average Case: HOHO(n<sup>2</sup>)<br> 
-Best Case: <br>
+Average Case: teta(n<sup>2</sup>)<br> 
+Best Case: omega<br>
 <br>
 Here is the problem and solution link for Problem 492B in codeforces.com <br>
 [Problem Link 492B](http://codeforces.com/contest/492/problem/B) <br>
 [Submission Link 492B](http://codeforces.com/contest/492/submission/42833028) <br>
 
 # 148A: Insomnia cure
+The problem here is to find the total dragon damaged, dragon is categorized damage if the number can be divided by one of the four number in the input. <br>
+The first four input is for every n-th dragon it will be damaged. Then, the fifth input will be the total dragons. <br>
+If there is 1 in any of the first four input, then all dragons will be damaged. Because, any number can be divided by 1 with no remainder. <br>
+Else for the others, do a for loop to check each number starting from 1 to the number of dragons. If the number is divisible by one of the four number given then, add the damaged dragon. <br>
+Output the damaged dragon. <br>
+Complexity:<br>
+Worst Case: *O*(*n*)<br>
+Average Case: teta(n<sup>2</sup>)<br> 
+Best Case: omega(*1*)<br>
 <br>
 Here is the problem and solution link for Problem 148A in codeforces.com <br>
 [Problem Link 148A](http://codeforces.com/contest/148/problem/A) <br>
 [Submission Link 148A](http://codeforces.com/contest/148/submission/42835066) <br>
 
 # 469A: I Wanna Be the Guy
+The problem given here is can Little X and Little Y solve all the level or not if they work together. <br>
+The first line input will be the total levels in the game. <br>
+The second line input will be the total level Little X can pass, and at which levels it is. <br>
+The third line input will be the total level Little Y can pass, and at which levels it is. <br>
+Solution to this problem will be start by declaring an array of all levels with 1 [Not yet Passed] and when Little X or LIttle Y can solve the level change it with 0 [Able to Passed]. Last, for loop once more to check are there any unsolved level. If there is unsolved level output "Oh, my keyboard!". On the other hand, if all level is solved output "I become the guy.". <br>
+Complexity:<br>
+Worst Case: *O*(*n*)<br>
+Average Case: teta(n<sup>2</sup>)<br> 
+Best Case: omega(*1HOHO*)<br>
 <br>
 Here is the problem and solution link for Problem 469A in codeforces.com <br>
 [Problem Link 469A](http://codeforces.com/contest/469/problem/A) <br>
