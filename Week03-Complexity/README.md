@@ -8,7 +8,7 @@ The solution here is first to count the distance from 0 to first lantern, then t
 Then we find the greatest number between those three and print it.<br>
 Complexity:<br>
 Worst Case: *O*(*nlogn*)<br>
-Average Case: &theta;(HOHO*n<sup>2</sup>*HOHO)<br> 
+Average Case: &theta;(*nlogn*)<br> 
 Best Case: &Omega;(*nlogn*)<br>
 <br>
 Here is the problem and solution link for Problem 492B in codeforces.com <br>
