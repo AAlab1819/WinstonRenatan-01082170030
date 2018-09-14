@@ -8,8 +8,8 @@ The solution here is first to count the distance from 0 to first lantern, then t
 Then we find the greatest number between those three and print it.<br>
 Complexity:<br>
 Worst Case: *O*(*nlogn*)<br>
-Average Case: teta(n<sup>2</sup>)<br> 
-Best Case: '\Omega\'<br>
+Average Case: \theta(n<sup>2</sup>)<br> 
+Best Case: '\Omega' <br>
 <br>
 Here is the problem and solution link for Problem 492B in codeforces.com <br>
 [Problem Link 492B](http://codeforces.com/contest/492/problem/B) <br>
