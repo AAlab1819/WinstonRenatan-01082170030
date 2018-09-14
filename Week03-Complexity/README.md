@@ -8,7 +8,7 @@ The solution here is first to count the distance from 0 to first lantern, then t
 Then we find the greatest number between those three and print it.<br>
 Complexity:<br>
 Worst Case: *O*(*nlogn*)<br>
-Average Case: &theta;(*n<sup>2</sup>*)<br> 
+Average Case: &theta;(HOHO*n<sup>2</sup>*HOHO)<br> 
 Best Case: &Omega;(*nlogn*)<br>
 <br>
 Here is the problem and solution link for Problem 492B in codeforces.com <br>
@@ -23,8 +23,9 @@ Else for the others, do a for loop to check each number starting from 1 to the n
 Output the damaged dragon. <br>
 Complexity:<br>
 Worst Case: *O*(*n*)<br>
-Average Case: &theta;(n<sup>2</sup>)<br> 
+Average Case: &theta;(*n*)<br> 
 Best Case: &Omega;(*1*)<br>
+It is possible if one of the four input is 1. <br>
 <br>
 Here is the problem and solution link for Problem 148A in codeforces.com <br>
 [Problem Link 148A](http://codeforces.com/contest/148/problem/A) <br>
@@ -38,8 +39,8 @@ The third line input will be the total level Little Y can pass, and at which lev
 Solution to this problem will be start by declaring an array of all levels with 1 [Not yet Passed] and when Little X or LIttle Y can solve the level change it with 0 [Able to Passed]. Last, for loop once more to check are there any unsolved level. If there is unsolved level output "Oh, my keyboard!". On the other hand, if all level is solved output "I become the guy.". <br>
 Complexity:<br>
 Worst Case: *O*(*n*)<br>
-Average Case: &theta;(n<sup>2</sup>)<br> 
-Best Case: &Omega;(*1HOHO*)<br>
+Average Case: &theta;(*n*)<br> 
+Best Case: &Omega;(*n*)<br>
 <br>
 Here is the problem and solution link for Problem 469A in codeforces.com <br>
 [Problem Link 469A](http://codeforces.com/contest/469/problem/A) <br>
