@@ -9,7 +9,7 @@ Then we find the greatest number between those three and print it.<br>
 Complexity:<br>
 Worst Case: *O*(*nlogn*)<br>
 Average Case: &theta;(*n<sup>2</sup>*)<br> 
-Best Case: &Omega;(*n*)<br>
+Best Case: &Omega;(*nlogn*)<br>
 <br>
 Here is the problem and solution link for Problem 492B in codeforces.com <br>
 [Problem Link 492B](http://codeforces.com/contest/492/problem/B) <br>
