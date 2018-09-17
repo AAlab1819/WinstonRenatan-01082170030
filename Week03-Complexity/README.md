@@ -10,6 +10,7 @@ Complexity:<br>
 Worst Case: *O*(*nlogn*)<br>
 Average Case: &theta;(*nlogn*)<br> 
 Best Case: &Omega;(*nlogn*)<br>
+The complexity is *O*(*nlogn*) because it use STL sort, which no matter what the input will get here. <br>
 <br>
 Here is the problem and solution link for Problem 492B in codeforces.com <br>
 [Problem Link 492B](http://codeforces.com/contest/492/problem/B) <br>
@@ -24,6 +25,7 @@ Output the damaged dragon. <br>
 Complexity:<br>
 Worst Case: *O*(*n*)<br>
 Average Case: &theta;(*n*)<br> 
+The complexity is *O*(*n*) because it normally gets to the for loop which goes from 1 to the number of dragons. <br>
 Best Case: &Omega;(*1*)<br>
 It is possible if one of the four input is 1. <br>
 <br>
@@ -41,6 +43,7 @@ Complexity:<br>
 Worst Case: *O*(*n*)<br>
 Average Case: &theta;(*n*)<br> 
 Best Case: &Omega;(*n*)<br>
+The complexity is *O*(*n*) because it will enter the for loop for input and when it check the unsolved level. <br>
 <br>
 Here is the problem and solution link for Problem 469A in codeforces.com <br>
 [Problem Link 469A](http://codeforces.com/contest/469/problem/A) <br>
