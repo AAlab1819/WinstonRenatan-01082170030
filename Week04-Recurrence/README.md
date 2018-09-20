@@ -8,6 +8,6 @@ Here is the problem and solution link for Problem 598D in codeforces.com <br>
 
 # 268B: Buttons
 <br>
-Here is the problem and solution link for Problem 492B in codeforces.com <br>
+Here is the problem and solution link for Problem 268B in codeforces.com <br>
 [Problem Link 268B](http://codeforces.com/problemset/problem/268/B) <br>
 [Submission Link 268B]() <br>
