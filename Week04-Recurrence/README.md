@@ -12,8 +12,8 @@ The only input will be the number of buttons to open. <br>
 The output will be the number he need to push a button. <br>
 The solution here is to loop it and at last add with the correct key. The function inside the for loop will be totalPush=totalPush+((numberOfLock-i)xi). <br>
 <pre>
-**Example input will be 4.**<br>
-BUTTONS |o o o o| TRIES <br>
+Example input will be 4.
+BUTTONS |o o o o| TRIES
 1st loop 0          1   <br>
            0        1   <br>
              0      1   <br>
