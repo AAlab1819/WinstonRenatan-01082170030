@@ -14,16 +14,16 @@ The solution here is to loop it and at last add with the correct key. The functi
 <pre>
 Example input will be 4.
 BUTTONS |o o o o| TRIES
-1st loop 0          1   <br>
-           0        1   <br>
-             0      1   <br>
-               1    C   <br>
-2nd loop 0     1    2   <br>
-           0   1    2   <br>
-             1 1    C   <br>
-3rd loop 0   1 1    3   <br>
-           1 1 1    C   <br>
-Outside  1 1 1 1    4  ** <br>
+1st loop 0          1
+           0        1
+             0      1
+               1    C
+2nd loop 0     1    2
+           0   1    2
+             1 1    C
+3rd loop 0   1 1    3
+           1 1 1    C
+Outside  1 1 1 1    4
 C means Correct, so we get the total to 14. <br>
 </pre>
 <br>
