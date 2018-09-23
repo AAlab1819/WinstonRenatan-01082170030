@@ -12,8 +12,9 @@ The only input will be the number of buttons to open. <br>
 The output will be the number he need to push a button. <br>
 The solution here is to loop it and at last add with the correct key. The function inside the for loop will be totalPush=totalPush+((numberOfLock-i)xi). <br>
 Example input will be 4.<br>
+<pre>
 BUTTONS |o o o o| TRIES <br>
-1st loop 0<pre>    </pre> 1   <br>
+1st loop 0          1   <br>
            0        1   <br>
              0      1   <br>
                1    C   <br>
@@ -23,6 +24,7 @@ BUTTONS |o o o o| TRIES <br>
 3rd loop 0   1 1    3   <br>
            1 1 1    C   <br>
 Outside  1 1 1 1    4   <br>
+</pre>
 C means Correct, so we get the total to 14. <br>
 <br>
 Here is the problem and solution link for Problem 268B in codeforces.com <br>
