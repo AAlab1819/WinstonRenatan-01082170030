@@ -10,7 +10,7 @@ Here is the problem and solution link for Problem 598D in codeforces.com <br>
 The problem here is to count how many times Manao must push a button until the lock is unlocked. He will act in an optimal way and we must calculate the number for the worst case scenario. <br>
 The only input will be the number of buttons to open. <br>
 The output will be the number he need to push a button. <br>
-The solution here is to loop it and at last add with the correct key. The function inside the for loop will be totalPush=totalPush+((numberOfLock-i)xi). <br>
+The solution here is to loop it and at last add with the correct key. The function inside the for loop will be totalPush = totalPush + ((numberOfLock - i) * i). <br>
 <pre>
 Example input will be 4.
 BUTTONS |o o o o| TRIES
