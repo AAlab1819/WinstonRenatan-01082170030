@@ -6,8 +6,15 @@ The first line input will be the row and the column followed by how many startin
 The next n x m line will be the cells filled with asteriks and dot. <br>
 The next will be x y Igor starting position. <br>
 The output will be how many picture in maximum can Igor see in that starting position. <br>
-The solution here is not yet found :( <br>
-The complexity for this problem is *O*(*n<sup>2</sup>*)<br>
+The solution here is to use the floodfill to search where Igor can walk to and then add the picture that he can view. Then we store for that certain group the answer will always be the same. For more information we can look the example below. Whether, Igor start at 2,2 or 3,3 or 4,2 the answer will be the same that is 16. After we store it, we can directly access the answer depending on its x and y starting place. <br>
+<pre>
+*****
+*...*
+*...*
+*...*
+*****
+</pre>
+The complexity for this problem is *O*(*nm*)<br>
 <br>
 Here is the problem and solution link for Problem 598D in codeforces.com <br>
 [Problem Link 598D](http://codeforces.com/contest/598/problem/D) <br>
