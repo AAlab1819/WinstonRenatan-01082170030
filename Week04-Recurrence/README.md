@@ -10,7 +10,7 @@ The solution here is not yet found :( <br>
 <br>
 Here is the problem and solution link for Problem 598D in codeforces.com <br>
 [Problem Link 598D](http://codeforces.com/contest/598/problem/D) <br>
-[Submission Link 598D]() <br>
+[Submission Link 598D](http://codeforces.com/contest/598/submission/43352896) <br>
 
 # 268B: Buttons
 The problem here is to count how many times Manao must push a button until the lock is unlocked. He will act in an optimal way and we must calculate the number for the worst case scenario. <br>
