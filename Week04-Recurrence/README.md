@@ -7,6 +7,7 @@ The next n x m line will be the cells filled with asteriks and dot. <br>
 The next will be x y Igor starting position. <br>
 The output will be how many picture in maximum can Igor see in that starting position. <br>
 The solution here is not yet found :( <br>
+The complexity for this problem is *O*(*n<sup>2</sup>*)<br>
 <br>
 Here is the problem and solution link for Problem 598D in codeforces.com <br>
 [Problem Link 598D](http://codeforces.com/contest/598/problem/D) <br>
@@ -32,6 +33,7 @@ BUTTONS |o o o o| TRIES
 Outside  1 1 1 1    4
 C means Correct, so we get the total to 14. <br>
 </pre>
+The complexity for this problem is *O*(*n*)<br>
 <br>
 Here is the problem and solution link for Problem 268B in codeforces.com <br>
 [Problem Link 268B](http://codeforces.com/problemset/problem/268/B) <br>
