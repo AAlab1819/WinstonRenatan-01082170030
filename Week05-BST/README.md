@@ -9,7 +9,7 @@ Complexity:*O*(*nlogn*)<br>
 <br>
 Here is the problem and solution link for Problem 115A in codeforces.com <br>
 [Problem Link 115A](http://codeforces.com/problemset/problem/115/A) <br>
-[Submission Link 115A]() <br>
+[Submission Link 115A](http://codeforces.com/contest/115/submission/43668737) <br>
 
 # 4C: Registration system
 The problem here is making a registration system at Berland where the name that is registered first will be answered with "OK" and the next one will be "(name)1" the next will be "(name)2" and so on. <br>
@@ -31,4 +31,4 @@ Complexity:*O*(*nlogn*)<br>
 <br>
 Here is the problem and solution link for Problem 913B in codeforces.com <br>
 [Problem Link 913B](http://codeforces.com/problemset/problem/913/B) <br>
-[Submission Link 913B]() <br>
+[Submission Link 913B](http://codeforces.com/contest/913/submission/43668348) <br>
