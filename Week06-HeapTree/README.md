@@ -15,7 +15,24 @@ The complexity for this problem is *O*(*nlogn*)<br>
 <br>
 
 # Heaps: Find the Running Median
-The problem is to find the median in a list. If the list number is even for example there are four number {1,2,3,4} then the median will be (2+3)/2=2.5. On the other side, if it is odd like three {1,2,3} then the median will be 2.
+The problem is to find the median in a list. If the list number is even for example there are four number {1,2,3,4} then the median will be (2+3)/2=2.5. On the other side, if it is odd like three {1,2,3} then the median will be 2. <br>
+The first line input will be how many number there will be. It will be followed by the number each line. <br>
+The output will be the median of the list on that line. <br>
+<pre>
+INPUT:
+5
+21
+3
+7
+9
+32
+OUTPUT:
+LIST = {21}, will output 21 because there is only one number in the list now.
+LIST = {3, 21} will output 12 because it is the sum of both number divided by 2.
+LIST = {3, 7, 21} will output 7 as the median.
+LIST = {3, 7, 9, 21} will output (7+9)/2 which is 8.
+LIST = {3, 7, 9, 21, 32} will output 9 as the median because it is in the middle.
+</pre>
 The solution BELOM LA <br>
 The complexity for this problem is *O*(*nlogn*)<br>
 <br>
