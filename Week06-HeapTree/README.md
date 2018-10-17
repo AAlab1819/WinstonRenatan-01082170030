@@ -33,6 +33,6 @@ LIST = {3, 7, 21} will output 7 as the median.
 LIST = {3, 7, 9, 21} will output (7+9)/2 which is 8.
 LIST = {3, 7, 9, 21, 32} will output 9 as the median because it is in the middle.
 </pre>
-The solution BELOM LA <br>
+The solution here is to create an array then we use heap sort to sort the array then we take thhe median. If the sum of element is now odd then we shall take the middle one, else we will take numElement/2 + numElement/2 then divided it by 2. We will do it everytime we input new element to the array. <br>
 The complexity for this problem is *O*(*nlogn*)<br>
 <br>
