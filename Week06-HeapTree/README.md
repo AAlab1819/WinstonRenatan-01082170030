@@ -10,7 +10,7 @@ The problem here is to find 5 Trending Topics (topics with the highest z-score).
 
 The input here will be number of changes. Each line then consist of Topic ID, current z-score, posts, likes, comments, shares. Where each are seperated by a space. <br>
 The output will be the 5 highest z-score topics. Which, each line contain the Topic ID and the new z-score. Which is sorted based on the changes (New z-score - Old z-score). Then if the change z-score is the same, the bigger Topic ID will be prioritize. <br>
-The solution BELOM LA extract-max heapify 5x<br>
+The solution is to list all the possibilities/updates in the program. Then, we will do extract-max and continue it with heapify for five times as needed from the problem.<br>
 The complexity for this problem is *O*(*nlogn*)<br>
 <br>
 
