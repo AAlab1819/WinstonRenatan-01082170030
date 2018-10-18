@@ -16,7 +16,7 @@ Here is the problem and solution link for Problem 978B in codeforces.com <br>
 [Problem Link 978B](http://codeforces.com/problemset/problem/978/B) <br>
 [Submission Link 978B]() <br>
 
-# 946A: Partition
+# 731B: Coupons and Discounts
 xxx
 Complexity Worst Case: *O*(*n*<sup>2</sup>)<br>
 <br>
