@@ -13,12 +13,15 @@ Here is the problem and solution link for Problem 115A in codeforces.com <br>
 [Submission Link 946A](http://codeforces.com/contest/946/submission/44467101) <br>
 
 # 978B: File Name
-xxx
-Complexity Worst Case: *O*(*nlogn*)<br>
+The problem here is to find how many "xxx" we should remove from the given string, because it is a forbidden characters. <br>
+The first line input is the length of string. <br>
+The second line input is the string. <br>
+The solution here is to loop all the characters one by one, and if there is 'x' character three in a row. We then add the number of removed forbidden characters. <br>
+Complexity Worst Case: *O*(*n*)<br>
 <br>
 Here is the problem and solution link for Problem 978B in codeforces.com <br>
 [Problem Link 978B](http://codeforces.com/problemset/problem/978/B) <br>
-[Submission Link 978B]() <br>
+[Submission Link 978B](http://codeforces.com/contest/978/submission/44467319) <br>
 
 # 731B: Coupons and Discounts
 xxx
