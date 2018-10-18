@@ -24,9 +24,13 @@ Here is the problem and solution link for Problem 978B in codeforces.com <br>
 [Submission Link 978B](http://codeforces.com/contest/978/submission/44467319) <br>
 
 # 731B: Coupons and Discounts
-xxx
-Complexity Worst Case: *O*(*n*<sup>2</sup>)<br>
+The problem here is to find is it possible to use discount (Buy 2 directly) and coupon (Buy 1 and get 1 voucher for tomorrow). There will be training for n-days and there will be x-teams that attend that training session that day. We need to order the pizza according to the number of teams. If it is possible to use discount and coupon print "YES". On the other hand, print "NO". <br>
+The first input is number of days to train. <br>
+The second line input is the pizza that is needed to be ordered that day. <br>
+The output will be "YES" or "NO" depends on is it possible or not possible to use discount and coupons for all. <br>
+The solution here is first, we need to input all the pizza that is needed to be ordered on days of the training. If it is an odd number and bigger than two, then we will use discount and a coupon. Then, we will subtract tommorow's order by one (using the coupon we have from today's order). Then we will continue to do it so, while checking if that day the pizza order is negative, then there will be left over pizza at that day which means it is not possible to use discount and coupons. Then we need to check at the last day, if it is even or odd, if it is odd it means it use coupon and there will be left over which means not possible. <br>
+Complexity Worst Case: *O*(*n*)<br>
 <br>
 Here is the problem and solution link for Problem 731B in codeforces.com <br>
 [Problem Link 731B](http://codeforces.com/problemset/problem/731/B) <br>
-[Submission Link 731B]() <br>
+[Submission Link 731B](http://codeforces.com/contest/731/submission/44467911) <br>
