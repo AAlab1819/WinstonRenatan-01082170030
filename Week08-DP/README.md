@@ -8,7 +8,7 @@ Here is the problem and solution link for Problem 433B in codeforces.com <br>
 [Problem Link 433B](http://codeforces.com/problemset/problem/433/B) <br>
 [Submission Link 433B]() <br>
 
-#913C: Party Lemonade
+# 913C: Party Lemonade
 xxx <br>
 Complexity Worst Case: *O*(*n*)<br>
 <br>
