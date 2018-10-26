@@ -20,7 +20,10 @@ Here is the problem and solution link for Problem 433B in codeforces.com <br>
 [Submission Link 433B](http://codeforces.com/contest/433/submission/44902395) <br>
 
 # 913C: Party Lemonade
-xxx <br>
+The problem here is to find the cheapest cost to fullfill the lemonade liters needed. Where each bottle have different volume and cost, the volume of the i-th bottle will be 2<sup>i-1</sup> liters. You can buy more than a bottle with the same volume. You can have more lemonade in liters than the required number. <br>
+The first line input will be number of bottle types and required lemonade in liters. <br>
+The second line input will be the price of the i-th bottle. <br>
+The output will be the money we spend to reach the required lemonade. <br>
 Complexity Worst Case: *O*(*n*)<br>
 <br>
 Here is the problem and solution link for Problem 913C in codeforces.com <br>
