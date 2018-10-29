@@ -24,6 +24,15 @@ The problem here is to find the cheapest cost to fullfill the lemonade liters ne
 The first line input will be number of bottle types and required lemonade in liters. <br>
 The second line input will be the price of the i-th bottle. <br>
 The output will be the money we spend to reach the required lemonade. <br>
+The solution here is first to store the cost for each type of bottle. Then, we will check if we can buy 2 bottle of smaller type of bottle with cheaper price rather than 1 bottle with higher price. If the bigger bottle cost higher, then we will store that type of bottle with the price of 2 smaller bottle. So in such case below, it is more beneficial to buy 2 bottle of 4L type rather than a bottle of 8L.<br>
+<pre>
+LITERS: 4
+COST  : 5
+-
+LITERS: 8
+COST  : 17
+</pre>
+Then we loop all the bottles from the highest liters down to the smallest liters. Then we will see is it cheaper to buy 2 of the biggest bottle if it is still left to fullfill or 1 bottle and other bottle to fullfill the need of the lemonade. <br>
 Complexity Worst Case: *O*(*n*)<br>
 <br>
 Here is the problem and solution link for Problem 913C in codeforces.com <br>
