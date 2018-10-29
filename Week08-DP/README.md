@@ -28,4 +28,4 @@ Complexity Worst Case: *O*(*n*)<br>
 <br>
 Here is the problem and solution link for Problem 913C in codeforces.com <br>
 [Problem Link 913C](http://codeforces.com/problemset/problem/913/C) <br>
-[Submission Link 913C]() <br>
+[Submission Link 913C](http://codeforces.com/contest/913/submission/45031151) <br>
