@@ -12,6 +12,6 @@ Here is the problem and solution link for Problem 20C in codeforces.com <br>
 xxx
 Complexity Worst Case: *O*(*nlogn*)<br>
 <br>
-Here is the problem and solution link for Problem 20C in codeforces.com <br>
+Here is the problem and solution link for Problem 601A in codeforces.com <br>
 [Problem Link 601A](http://codeforces.com/problemset/problem/601/A) <br>
 [Submission Link 601A]() <br>
