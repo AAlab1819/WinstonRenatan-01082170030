@@ -10,8 +10,8 @@ Here is the problem and solution link for Problem 20C in codeforces.com <br>
 
 # 601A: The Two Routes
 xxx
-Complexity Worst Case: *O*(*nlogn*)<br>
+Complexity Worst Case: *O*(*n*<sup>2</sup>)<br>
 <br>
 Here is the problem and solution link for Problem 601A in codeforces.com <br>
 [Problem Link 601A](http://codeforces.com/problemset/problem/601/A) <br>
-[Submission Link 601A]() <br>
+[Submission Link 601A](http://codeforces.com/contest/601/submission/45582762) <br>
