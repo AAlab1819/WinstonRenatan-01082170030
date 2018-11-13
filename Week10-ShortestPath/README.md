@@ -1,12 +1,12 @@
 # HELLO THERE PLEASE READ ME
 
 # 20C: Dijkstra?
-xxx
+xxx<br>
 Complexity Worst Case: *O*(*nlogn*)<br>
 <br>
 Here is the problem and solution link for Problem 20C in codeforces.com <br>
 [Problem Link 20C](http://codeforces.com/problemset/problem/20/C) <br>
-[Submission Link 20C]() <br>
+[Submission Link 20C](http://codeforces.com/contest/20/submission/45652999) <br>
 
 # 601A: The Two Routes
 In this problem we need to find the shortest way to reach a the last town from the first town. <br>
