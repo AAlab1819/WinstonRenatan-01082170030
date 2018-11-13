@@ -28,6 +28,7 @@ So here at the example input, there will be 5 towns in total and 5 rail connecti
 4 0 1 0 0 1
 5 1 0 1 1 0
 ```
+So first, we will check whether there is a railway directly from 1 to town N, if yes it means that we can travel to town N from town 1 in just one hour and find a way to town N using the bus. On the other side, if it is no railway (means there is a bus stop) from town 1 to town N, we just need to find how to transport from town 1 to town N using the train. In this case, we use Breadth First Seach to find the shortest path. <br>
 Complexity Worst Case: *O*(*n*<sup>2</sup>)<br>
 <br>
 Here is the problem and solution link for Problem 601A in codeforces.com <br>
