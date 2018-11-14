@@ -1,7 +1,24 @@
 # HELLO THERE PLEASE READ ME
 
 # 20C: Dijkstra?
-xxx<br>
+Here we need to find the shortest (smallest weight) to go from vertices 1 to N. Here what we will do is finding the shortest(cheapest) path to every single vertices. Then we will find which one is best to bring us to N. The solution will uses Dijkstra Algorithm as the problem name itself. Remember what we want to find is the path not the cost, so we must watch out for the source. For example, the input below. <br>
+```Java
+5 6
+1 2 2
+2 5 5
+2 3 4
+1 4 1
+4 3 3
+3 5 1
+SOURCE DESTINATION PRICE
+  1  ->     2       (2)
+  2  ->     5       (5)
+  2  ->     3       (4)
+  1  ->     4       (1)
+  4  ->     3       (3)
+  3  ->     5       (1)
+```
+We may see it is easier if we go 1->2->5 which will cost 2+5=7. It is correct if we want to find the shortest path. But, here we want to find the cheapest, which will be 1->4->3->5 that cost 1+3+1=5. <br>
 Complexity Worst Case: *O*(*nlogn*)<br>
 <br>
 Here is the problem and solution link for Problem 20C in codeforces.com <br>
